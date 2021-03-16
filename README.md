@@ -6,7 +6,7 @@ Visualizes robots using the envire_visualizer
 
 License
 -------
-dummy-license
+BSD 3-Clause
 
 Installation
 ------------
